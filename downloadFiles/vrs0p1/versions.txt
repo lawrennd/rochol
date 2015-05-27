@@ -1,0 +1,9 @@
+File versionlist for the ROCHOL toolbox version 0.1 Saturday, June 12, 2004 at 14:42:24
+
+rocholBackSub.m	 vs 1.1	 Sat Jun 12 13:39:30 2004
+rocholExtract.m	 vs 1.1	 Sat Jun 12 13:39:30 2004
+rocholFactorise.m	 vs 1.1	 Sat Jun 12 13:39:30 2004
+rocholForeSub.m	 vs 1.1	 Sat Jun 12 13:39:30 2004
+rocholMultiply.m	 vs 1.1	 Sat Jun 12 13:39:30 2004
+rocholTransMultiply.m	 vs 1.1	 Sat Jun 12 13:39:30 2004
+rocholhFactorise.m	 vs 1.1	 Sat Jun 12 13:39:30 2004

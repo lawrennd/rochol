@@ -1,0 +1,14 @@
+ X = rocholBackSub(ch, Y);
+
+ L = rocholExtract(ch)
+
+ ch = rocholFactorise(v);
+
+ X = rocholForeSub(ch, Y);
+
+ X = rocholMultiply(ch, Y);
+
+ X = rocholTransMultiply(ch, Y);
+
+ ch = rocholhFactorise(v);
+
